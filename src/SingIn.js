@@ -91,7 +91,7 @@ function SingIn() {
 
         <SButton
           type="submit"
-          disabled={!inputValues.email || !inputValues.password}
+          disabled={validation.email || validation.password}
         >
           SING IN
         </SButton>
