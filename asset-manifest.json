@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Cursor_ADV_React_Registration/static/css/main.5905a958.css",
-    "main.js": "/Cursor_ADV_React_Registration/static/js/main.3f12719b.js",
-    "static/js/787.d9609e46.chunk.js": "/Cursor_ADV_React_Registration/static/js/787.d9609e46.chunk.js",
-    "index.html": "/Cursor_ADV_React_Registration/index.html",
-    "main.5905a958.css.map": "/Cursor_ADV_React_Registration/static/css/main.5905a958.css.map",
-    "main.3f12719b.js.map": "/Cursor_ADV_React_Registration/static/js/main.3f12719b.js.map",
-    "787.d9609e46.chunk.js.map": "/Cursor_ADV_React_Registration/static/js/787.d9609e46.chunk.js.map"
+    "main.css": "/React_Registration_Form/static/css/main.5905a958.css",
+    "main.js": "/React_Registration_Form/static/js/main.a6971934.js",
+    "static/js/787.d9609e46.chunk.js": "/React_Registration_Form/static/js/787.d9609e46.chunk.js",
+    "index.html": "/React_Registration_Form/index.html",
+    "main.5905a958.css.map": "/React_Registration_Form/static/css/main.5905a958.css.map",
+    "main.a6971934.js.map": "/React_Registration_Form/static/js/main.a6971934.js.map",
+    "787.d9609e46.chunk.js.map": "/React_Registration_Form/static/js/787.d9609e46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5905a958.css",
-    "static/js/main.3f12719b.js"
+    "static/js/main.a6971934.js"
   ]
 }
